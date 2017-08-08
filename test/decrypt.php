@@ -1,5 +1,7 @@
 <?php
 
+header('Content-type: text/plain');
+
 $const = 'abcdefghijklmnopqrstuvwxyz';
 $cipher = 'oephjizkxdawubnytvfglqsrcm';
 
