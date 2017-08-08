@@ -2,7 +2,7 @@
 
 PHP 5 or higher needed
 
-Usage on terminal : navigate to boost/test and run the following command
+Usage : access decrypt.php file from local server or navigate to boost/test in terminal and run the following command
 
 ```
 
