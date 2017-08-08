@@ -8,16 +8,6 @@ Usage : access decrypt.php file from local server or navigate to boost/test in t
 
 ```
 
-$ php decrypt.php
-
-```
-
-## Ruby
-
-Usage : navigate to boost/test and run the following command
-
-```
-
-$ ruby decrypt.rb
+$ php atbash.php
 
 ```
